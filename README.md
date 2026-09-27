@@ -51,8 +51,9 @@ I'm a Master's student in **Data Science & Artificial Intelligence** at Universi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aymanezzahir&show_icons=true&theme=default&hide_border=true&title_color=1F4E5C&icon_color=1F4E5C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanezzahir&layout=compact&hide_border=true&title_color=1F4E5C" />
+  <img src="https://img.shields.io/github/followers/aymanezzahir?label=Followers&style=for-the-badge&color=1F4E5C" />
+  <img src="https://img.shields.io/github/stars/aymanezzahir?label=Stars&style=for-the-badge&color=1F4E5C" />
+  <img src="https://komarev.com/ghpvc/?username=aymanezzahir&label=Profile+Views&style=for-the-badge&color=1F4E5C" />
 </p>
 
 ---
@@ -62,7 +63,6 @@ I'm a Master's student in **Data Science & Artificial Intelligence** at Universi
 <p align="center">
   <a href="https://aymanezzahir.me"><img src="https://skillicons.dev/icons?i=github" alt="portfolio" /></a>
   <a href="mailto:aymanezzahir2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/ayman-ezzahir"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a href="https://www.instagram.com/_decim___"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
 </p>
 
